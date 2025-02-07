@@ -1,0 +1,2 @@
+-- API de 'Solar - Dólar en Venezuela' con Base de Datos en PostgreSQL, creada por Tenubar, 2025 --
+-- API of 'Solar - Dólar en Venezuela' with Database in PostgreSQL, created by Tenubar, 2025 --

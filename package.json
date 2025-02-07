@@ -1,0 +1,25 @@
+{
+  "name": "solar-restapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "eventsource": "^3.0.5",
+    "express": "^4.21.2",
+    "moment-timezone": "^0.5.47",
+    "morgan": "^1.10.0",
+    "pg": "^8.13.1"
+  }
+}
